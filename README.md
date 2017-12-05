@@ -1,6 +1,4 @@
 # Mineracao-de-artigos-sobre-usabilidade-na-Scielo
-Notebook desenvolvido para a disciplina Tópicos Especiais em GET II: Representações Distribuídas de Texto e Modelagem de Tópicos - PPGGOC/UFMG
-
 # coding: utf-8
 
 # UNIVERSIDADE FEDERAL DE MINAS GERAIS - UFMG 
